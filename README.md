@@ -54,7 +54,7 @@ This plugin is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Your Name  
-Your Email  
-Your Website
+Your Name: Mando
+Your Email: todoscorreios@gmail.com
+Your Website: https://todoscorreios.com/
 
